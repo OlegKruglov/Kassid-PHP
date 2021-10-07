@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kassid>
+    <kass synd="2020">
+        <nimi>
+            Tom
+        </nimi>
+        <synniaasta>
+            2020
+        </synniaasta>
+    </kass>
+    <kass synd="2018">
+        <nimi>
+            Garfield
+        </nimi>
+        <synniaasta>
+            2018
+        </synniaasta>
+    </kass>
+    <kass synd="2019">
+        <nimi>
+            Kevin
+        </nimi>
+        <synniaasta>
+            2019
+        </synniaasta>
+    </kass>
+    <kass synd="2021">
+        <nimi>
+            Gray
+        </nimi>
+        <synniaasta>
+            2021
+        </synniaasta>
+    </kass>
+    <kass synd="2015">
+        <nimi>
+            Beth
+        </nimi>
+        <synniaasta>
+            2015
+        </synniaasta>
+    </kass>
+    <kass synd="2018">
+    <nimi>
+        Alice
+    </nimi>
+    <synniaasta>
+        2018
+    </synniaasta>
+    </kass>
+    <kass synd="2020">
+        <nimi>
+            Jerry
+        </nimi>
+        <synniaasta>
+            2020
+        </synniaasta>
+    </kass>
+    <kass synd="2010">
+        <nimi>
+            Mew
+        </nimi>
+        <synniaasta>
+            2010
+        </synniaasta>
+    </kass>
+    <kass synd="2013">
+        <nimi>
+            Ace
+        </nimi>
+        <synniaasta>
+            2013
+        </synniaasta>
+    </kass>
+    <kass synd="2010">
+        <nimi>
+            Zorro
+        </nimi>
+        <synniaasta>
+            2010
+        </synniaasta>
+    </kass>
+</kassid>
